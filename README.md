@@ -1,5 +1,5 @@
 # FamSafe - Keep Your Loved one’s Connected
-![fam](https://github.com/dhruvx19/famsafe/assets/123721290/1ee798e9-4ec1-4cb1-a333-e3eaa2617611)
+![fam](https://github.com/sidd5142/Famsafe-SH/assets/123721290/1ee798e9-4ec1-4cb1-a333-e3eaa2617611)
 
 
 
